@@ -1,3 +1,4 @@
+/* SplitMatrix50 keymap */
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/bt.h>
 
